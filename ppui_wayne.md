@@ -1,5 +1,13 @@
 ![Alt text](images/ppui/ppui_3.5.jpg)
 
+# PPUI 3.5 - 21/05/2021
+- Initial 4.19 build
+
+## Notes:
+- Clean flash mandatory
+
+---
+
 # PPUI 3.5 - 16/05/2021
 - Switched to Halcyon Kernel v5.4 (due to phone freezing and WiFi issues)
 - Rebased tree:
